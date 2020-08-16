@@ -16,9 +16,6 @@ I will architect and build a solution for managing a company's employees using n
 - [Built With](#built-with)
 - [Questions](#questions)
 - [Demo](#demo)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [CopyRight](#copyright)
 
 ## Description
 
